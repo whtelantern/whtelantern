@@ -1,5 +1,6 @@
                   ❝ kindness is the new punk rock.
             cred: 赤月 💕 + a飒飒鱼
+                             ✧ https://discord.gg/durin
 <p align="center">
   <img src="https://media.discordapp.net/attachments/905483080641417281/1398588840846954559/azZlSjJrYkg3YzNaNmJLK1d0UVlSSEFaWUxqdmhFYWpUbmswTlh6aisvdz0.jpg?ex=6885e8dc&is=6884975c&hm=030c0fad54306551668f2453eb1f684369eff9a44355b25776ae07300e20f76c&=&format=webp&width=1353&height=837" alt="kylewally by a飒飒鱼"/>
 </p>
