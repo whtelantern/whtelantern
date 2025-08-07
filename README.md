@@ -8,5 +8,6 @@
 </p>
 <p align=center><a href=https://gotham.crd.co>𝘊𝘈𝘙𝘙𝘋</a> ㅤㅤ🦇ㅤㅤ <a href=https://discord.com/users/711223236880236585/>𝘋𝘐𝘚𝘊𝘖𝘙𝘋</a> ㅤㅤ🦇ㅤㅤ <a href=https://x.com/anxagrs>𝘛𝘞𝘐𝘛𝘛𝘌𝘙</a> </p>
 <p align=center>──── ↭༒↭ ────</a> </p>
+<p align="center"> <a href="https://hits.sh/github.com/whtelantern/hits/"><img alt="Hits" src="https://hits.sh/github.com/whtelantern/hits.svg?label=hi&color=f0db75"/></a> </p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xiodtyohsqxh1d8aejzoivtzz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=a6e17f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
