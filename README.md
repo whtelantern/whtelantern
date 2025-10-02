@@ -18,17 +18,17 @@
 <table align="center">
   <tr>
            <td align="center" valign="middle">
-<img width="81" height="85" src="https://github.com/user-attachments/assets/0bf9e472-9638-4a57-b7fe-ac33fcd1f89e" />
+<img width="81" height="85" src="https://github.com/user-attachments/assets/0bf9e472-9638-4a57-b7fe-ac33fcd1f89e alt="me by darkkyo" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/37149114-1cd0-4a15-babe-b78f253de62f">
+      <img src="https://github.com/user-attachments/assets/37149114-1cd0-4a15-babe-b78f253de62f alt="kylewally by ADincol">
     </td>
     <td align="center" valign="middle" width="220">
-      <b>hop on rivals oomfies⠀ &amp;⠀⠀  i love u darkkyo</b><br>
+      <b>hop on rivals oomfies⠀ ⠀ &amp;⠀⠀  i love u darkkyo</b><br>
       <i>(username is "athéus")</i>
     </td>
     <td align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/c8957409-2a05-4937-870b-25ac350001fb">
+      <img src="https://github.com/user-attachments/assets/c8957409-2a05-4937-870b-25ac350001fb alt="kylewally by ADincol">
     </td>
   </tr>
 </table>
