@@ -22,7 +22,7 @@
       <img src="https://github.com/user-attachments/assets/37149114-1cd0-4a15-babe-b78f253de62f" alt="kylewally by ADincol">
     </td>
     <td align="center" valign="middle" width="220">
-      <b>barry + peter kin⠀⠀  ⠀ &amp;⠀⠀  i love u darkkyo</b><br>
+      <b>i kin barry + peter⠀⠀  ⠀ p.s.⠀⠀  i love u darkkyo</b><br>
       <i>(rivals user is "athéus")</i>
     </td>
     <td align="center" valign="middle">
