@@ -1,10 +1,10 @@
 <div align="center">
 
-> **"In brightest** ***__day__***, **in blackest** ***__night__***,   **no evil shall escape my** __***sight.***__   
-> **Let those who worship** ***evil's might***,  
+> "In brightest ***__day__***, in blackest ***night***,   no evil shall escape my ***sight.***   
+> Let those who worship ***evil's might***,  
 > **Beware my power...** ***Green Lantern's light!***"
 >
-> <p align="right">── Green Lanterns ✧" ⠀⠀⠀ ⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀ ⠀⠀⠀ ⠀⠀ ⠀
+> <p align="right">── The Green Lantern Oath ✧" ⠀⠀⠀ ⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀
 
 <p align=center>──── ↭༒↭ ────</a> </p>
 <p align="center"> <a href="https://hits.sh/github.com/whtelantern/hits/"><img alt="Hits" src="https://hits.sh/github.com/whtelantern/hits.svg?label=speedsters&color=bf9a63"/></a> </p>
