@@ -22,8 +22,8 @@
       <img src="https://github.com/user-attachments/assets/37149114-1cd0-4a15-babe-b78f253de62f" alt="kylewally by ADincol">
     </td>
     <td align="center" valign="middle" width="220">
-      <b>hop on rivals oomfies⠀⠀  ⠀ &amp;⠀⠀  i love u darkkyo</b><br>
-      <i>(username is "athéus")</i>
+      <b>barry + peter kin⠀⠀  ⠀ &amp;⠀⠀  i love u darkkyo</b><br>
+      <i>(rivals user is "athéus")</i>
     </td>
     <td align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/c8957409-2a05-4937-870b-25ac350001fb" alt="kylewally by ADincol">
