@@ -1,7 +1,6 @@
 <div align="center">
 
-> **"In brightest** ***__day__***, **in blackest** ***__night__***,   
-> **No evil shall escape my** __***sight.***__   
+> **"In brightest** ***__day__***, **in blackest** ***__night__***,   **no evil shall escape my** __***sight.***__   
 > **Let those who worship** ***evil's might***,  
 > **Beware my power...** ***Green Lantern's light!***"
 >
@@ -23,7 +22,7 @@
       <img src="https://github.com/user-attachments/assets/37149114-1cd0-4a15-babe-b78f253de62f" alt="kylewally by ADincol">
     </td>
     <td align="center" valign="middle" width="220">
-      <b>hop on rivals oomfies⠀ ⠀ &amp;⠀⠀  i love u darkkyo</b><br>
+      <b>hop on rivals oomfies⠀⠀  ⠀ &amp;⠀⠀  i love u darkkyo</b><br>
       <i>(username is "athéus")</i>
     </td>
     <td align="center" valign="middle">
