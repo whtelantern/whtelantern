@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1ee7eb6c-409d-40cb-9551-917354b4fa56"  alt="kylewally by 轩伶"/>
 </p>
-  <p align=center><a href=https://gotham.crd.co>𝘾𝘼𝙍𝙍𝘿</a> ㅤㅤ🕸️ㅤㅤ <a href=https://peer.straw.page>𝙎𝙏𝙍𝘼𝙒𝙋𝘼𝙂𝙀</a> ㅤㅤ🕸️ㅤㅤ <a href=https://discordid.taichikuji.org/?id=711223236880236585>𝘿𝙄𝙎𝘾𝙊𝙍𝘿</a> </p>
+  <p align=center><a href=https://gotham.crd.co>𝘾𝘼𝙍𝙍𝘿</a> ㅤㅤ🕸️ㅤㅤ <a href=https://rentry.co/kylerayner>𝙍𝙀𝙉𝙏𝙍𝙔𝙀</a> ㅤㅤ🕸️ㅤㅤ <a href=https://peer.straw.page>𝙎𝙏𝙍𝘼𝙒𝙋𝘼𝙂𝙀</a> ㅤㅤ🕸️ㅤㅤ <a href=https://discordid.taichikuji.org/?id=711223236880236585>𝘿𝙄𝙎𝘾𝙊𝙍𝘿</a> </p>
 <p align=center>──── ↭༒↭ ────</a> </p>
 <table align="center">
   <tr>
