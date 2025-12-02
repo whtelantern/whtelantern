@@ -23,7 +23,7 @@
     </td>
     <td align="center" valign="middle" width="220">
       <b>barry + peter/peer kin⠀⠀  ⠀ p.s.⠀⠀  i love u darkkyo</b><br>
-      <i>(rivals user is "athéus")</i>
+      <i>(rivals user is "ClintKisser")</i>
     </td>
     <td align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/c8957409-2a05-4937-870b-25ac350001fb" alt="kylewally by ADincol">
