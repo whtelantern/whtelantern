@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/6c20bf3d-43eb-4ef1-9996-642c7c39efb6" width="165" align="left" valign="middle"> 
-<img src="https://github.com/user-attachments/assets/1b8b912a-9c85-4162-8c1c-4674dc935199" width="165" align="right" valign="middle"> 
 
-<table align="left">
+
+<table align="center">
 <br>
     <tr>
       <td>
@@ -13,7 +13,7 @@
 
 <p align="right">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xiodtyohsqxh1d8aejzoivtzz&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=c689d7&bar_color_cover=false"> </a> <img src="https://github.com/user-attachments/assets/1e41df1a-6747-409b-8676-0e354d4a6f5f" width="70" align="top"> 
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xiodtyohsqxh1d8aejzoivtzz&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=c689d7&bar_color_cover=false"> </a> <img src="https://github.com/user-attachments/assets/1e41df1a-6747-409b-8676-0e354d4a6f5f" width="70" align="top"> </p>
 
 <div align="center">──── ↭༒↭ ────
 </p>
